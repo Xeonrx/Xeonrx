@@ -1,3 +1,3 @@
 # Interest
->•  Cyber Security <br />
->•  OSINT/Privacy <br />
+•  Cyber Security <br />
+•  OSINT/Privacy <br />
