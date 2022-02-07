@@ -1,3 +1,2 @@
-
->-Cyber Security <br />
->-OSINT <br />
+> • Cyber Security <br />
+> • OSINT <br />
