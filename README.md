@@ -4,7 +4,5 @@
 •  OSINT/Privacy <br />
 •  Programming <br />
 
-# Languages
-•  English *(native)* <br />
-•  German *(generic)* <br />
-•  Russian *(beginner)* <br />
+
+Mainly just personal projects on here.
