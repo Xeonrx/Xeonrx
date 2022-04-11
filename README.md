@@ -5,4 +5,4 @@
 •  Programming <br />
 
 
-Mainly just personal projects on here.
+Mainly just personal projects on here, and rewritten exploits for known vulnerabilities. 
