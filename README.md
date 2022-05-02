@@ -1,5 +1,4 @@
-**Wanabe Computer Science and Cyber Security researcher. <br />
-( Located in the United States )**
+**Wanabe Computer Science and Cyber Security researcher.** <br />
 
 - Networking <br />
 - Programming <br />
