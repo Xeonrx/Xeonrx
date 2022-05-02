@@ -1,4 +1,4 @@
-**Wanabe Computer Science and Cyber Security researcher.** <br />
+**Wannabe Computer Science and Cyber Security researcher.** <br />
 
 - Networking <br />
 - Programming <br />
