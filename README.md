@@ -1,2 +1,7 @@
 **Wanabe Computer Science and Cyber Security researcher.**
->Located in the USA :atom:
+
+## Interest
+○ Networking <br />
+○ Programming <br />
+○ OSINT/Privacy <br />
+○ Forensics <br />
