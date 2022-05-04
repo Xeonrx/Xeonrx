@@ -1,5 +1,5 @@
 
-![laptop](https://github.com/Xeonrx/Xeonrx/blob/main/hacktop.PNG | width=100)
+![laptop](https://github.com/Xeonrx/Xeonrx/blob/main/hacktop.PNG)
 ## whoami
 Wannabe Cyber Security researcher, future Computer Science student, located in the USA.
 
