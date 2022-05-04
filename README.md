@@ -1,7 +1,7 @@
-**Wannabe Computer Science and Cyber Security researcher.** <br />
+## whoami
+Wannabe Cyber Security researcher, future Computer Science student, located in the USA.
 
-- Networking <br />
-- Programming <br />
-- OSINT/Privacy <br />
-- Forensics <br />
+My favorite studies include: `OSINT, Privacy, Programming, Networking, Digital Security, and Forensics` <br />
+>My most knowledgeable language includes Python, but learning C
 
+I speak English natively, but in the process of learning German.
