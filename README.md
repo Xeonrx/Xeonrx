@@ -1,5 +1,8 @@
 
-# whoami
+**┌─[✗]─[xeonrx@github]─[~]<br />
+└──╼ $whoami**
+
+
 Wannabe Cyber Security researcher, located in the USA.
 
 My favorite studies include: `OSINT, Privacy, Programming, Networking, Digital Security, and Forensics` <br />
