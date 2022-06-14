@@ -1,6 +1,6 @@
 
 **┌─[✗]─[xeonrx@github]─[~]<br />
-└──╼ $whoami**
+└──╼ $cat aboutme.txt**
 
 
 Wannabe Cyber Security researcher, located in the USA.
