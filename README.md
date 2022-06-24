@@ -5,7 +5,7 @@
 
 Wannabe Cyber Security researcher, located in the USA.
 
-My favorite studies include: `OSINT, Privacy, Programming, Networking, Digital Security, and Forensics` <br />
+My favorite studies include: `OSINT, Privacy, Programming, Networking, and Digital Security <br />
 Some other interest I have are: `Geography, 3D Modeling, and foreign languages`
 
 Do you want a push in the right direction? Give my article a read :) <br />
