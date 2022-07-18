@@ -20,5 +20,7 @@ As of right now, you can only contact me via Discord (vimm#3009)
 
 If you would like to support me, leave a star or a follow!
 
+![stats](https://github-readme-stats.vercel.app/api?username=xeonrx&show_icons=true&theme=radical)
+
 
 
