@@ -4,6 +4,9 @@
 ![starcount](https://img.shields.io/github/stars/Xeonrx)
 ![views](https://komarev.com/ghpvc/?username=xeonrx&color=blue)
 
+![stats](https://github-readme-stats.vercel.app/api?username=xeonrx&show_icons=true&theme=radical)
+
+
 Wannabe Cyber Security and OSINT researcher, located in the USA.
 
 I mainly like to research; `Privacy, OSINT, Computer science, Computer hacking, & other digital security` <br />
@@ -19,8 +22,6 @@ https://xeonrx.gitbook.io/startinghere/
 As of right now, you can only contact me via Discord (vimm#3009)
 
 If you would like to support me, leave a star or a follow!
-
-![stats](https://github-readme-stats.vercel.app/api?username=xeonrx&show_icons=true&theme=radical)
 
 
 
