@@ -2,6 +2,7 @@
 ![OSINT](https://github.com/Xeonrx/Xeonrx/blob/main/OSINT.PNG)
 ![followers](https://img.shields.io/github/followers/Xeonrx?label=Follow)
 ![starcount](https://img.shields.io/github/stars/Xeonrx)
+![views](https://komarev.com/ghpvc/?username=xeonrx&color=blue)
 
 Wannabe Cyber Security and OSINT researcher, located in the USA.
 
