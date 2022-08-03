@@ -9,7 +9,7 @@
 17 year old wannabe Cyber Security and OSINT researcher.
 
 I mainly like to research; `Privacy, OSINT, Computer science, Computer hacking, & other digital security` <br />
-Other interest I have are; `Geography, 3D modeling, & Foreign languages`
+Other interest I have are; `Geography, 3D modeling, Music, & Foreign languages`
 
 # Get Involved
 Have you been planning on getting Involved in the field of Cyber Security too?
