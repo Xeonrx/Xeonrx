@@ -7,7 +7,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=xeonrx&show_icons=true&theme=radical)
 
 
-Wannabe Cyber Security and OSINT researcher, located in the USA.
+17 year old wannabe Cyber Security and OSINT researcher.
 
 I mainly like to research; `Privacy, OSINT, Computer science, Computer hacking, & other digital security` <br />
 Other interest I have are; `Geography, 3D modeling, & Foreign languages`
