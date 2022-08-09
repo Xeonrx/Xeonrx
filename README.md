@@ -17,8 +17,6 @@ Have you been planning on getting Involved in the field of Cyber Security too?
 Give my article a read, for a push in the right direction ;) <br />
 https://xeonrx.gitbook.io/startinghere/
 
-# Contact Me
-As of right now, you can only contact me via Discord (vimm#3009)
 
 If you would like to support me, leave a star or a follow!
 
