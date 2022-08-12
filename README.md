@@ -1,9 +1,6 @@
 # Welcome to My Page
 ![stats](https://github-readme-stats.vercel.app/api?username=xeonrx&show_icons=true&theme=radical)
 
-![followers](https://img.shields.io/github/followers/Xeonrx?label=Follow)
-![starcount](https://img.shields.io/github/stars/Xeonrx)
-![views](https://komarev.com/ghpvc/?username=xeonrx&color=blue)
 
 
 17 year old wannabe Cyber Security and OSINT researcher.
