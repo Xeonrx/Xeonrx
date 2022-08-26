@@ -1,9 +1,7 @@
 # Welcome to My Page
 ![stats](https://github-readme-stats.vercel.app/api?username=xeonrx&show_icons=true&theme=radical)
 
-Have you been planning on getting Involved in the field of Cyber Security too?
-
-Give my article a read, for a push in the right direction ;) <br />
+If you wanted to get involved in Cyber Security too, consider checking out my article...<br />
 https://xeonrx.gitbook.io/startinghere/
 
 Check out my YouTube for some learning content. <br />
