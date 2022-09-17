@@ -1,5 +1,5 @@
 # Xeonrx
-![stats](https://github-readme-stats.vercel.app/api?username=xeonrx&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=xeonrx&show_icons=true&theme=tokyonight)
 
 If you wanted to get involved in Cyber Security too, consider checking out my [article](https://xeonrx.gitbook.io/startinghere/)...<br />
 
