@@ -1,6 +1,9 @@
 # Xeonrx
-![stats](https://github-readme-stats.vercel.app/api?username=xeonrx&show_icons=true&theme=tokyonight&hide_border=true)
-![con](https://github-readme-streak-stats.herokuapp.com/?user=xeonrx&theme=tokyonight&hide_border=true)
+
+<div class="img">
+<img src="https://github-readme-stats.vercel.app/api?username=xeonrx&show_icons=true&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xeonrx&theme=tokyonight&hide_border=true">
+</div>
 
 If you wanted to get involved in Cyber Security too, consider checking out my [article](https://xeonrx.gitbook.io/startinghere/)...<br />
 
